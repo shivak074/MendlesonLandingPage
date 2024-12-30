@@ -13,7 +13,7 @@ function Service() {
                 <div className="w-5/6 mx-auto flex flex-col sm:flex-row items-center gap-8 xl:gap-24">
                     <div className="text-center lg:w-1/2 sm:text-right">
                         <h2 className="font-bold text-xl sm:text-2xl lg:text-4xl mb-4">ENGAGEMENT</h2>
-                        <p className="text-xs sm:text-md lg:text-[14px] xl:text-lg whitespace-nowrap p-2">
+                        <p className="text-xs sm:text-md lg:text-[14px] xl:text-lg whitespace-nowrap p-4">
                             We love what we do and are driven by achieving great results for our<br />
                             clients. Our awards and impressive client list are testament to our high<br />
                             quality approach. We deliver value, creativity, results andexceptional<br />
@@ -54,7 +54,7 @@ function Service() {
                     <div className="lg:w-1/2 text-center sm:text-right  flex flex-col justify-center items-center ">
                         <div>
                             <h2 className="font-bold text-lg sm:text-2xl lg:text-4xl mb-4">FACILITATION</h2>
-                            <p className="text-xs sm:text-md lg:text-[14px] xl:text-lg whitespace-nowrap">
+                            <p className="text-xs sm:text-md lg:text-[14px] xl:text-lg whitespace-nowrap p-4">
                                 We love what we do and are driven by achieving great results for our<br />
                                 clients. Our awards and impressive client list are testament to our<br />
                                 high quality approach. We deliver value, creativity, results and<br />
@@ -107,7 +107,7 @@ function Service() {
                 <div className="w-5/6 mx-auto flex flex-col sm:flex-row items-center gap-8 lg:gap-24 ">
                     <div className="lg:w-1/2 text-center lg:text-right">
                         <h2 className="font-bold text-xl sm:text-2xl lg:text-4xl mb-4">TRAINING & MENTORING</h2>
-                        <p className="text-xs sm:text-md lg:text-[14px] xl:text-lg whitespace-nowrap">
+                        <p className="text-xs sm:text-md lg:text-[14px] xl:text-lg whitespace-nowrap p-4">
                             We love what we do and are driven by achieving great results for our<br />
                             clients. Our awards and impressive client list are testament to our<br />
                             high quality approach. We deliver value, creativity, results and<br />
